@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    
+}
+
+h1 {
+    text-align: center;
+    color: #216BEA;
+}
+
+.one {
+    width: 15%;
+}
+
+.two {
+    color: #6C7969;
+    width: 10%
+}
+
+.three {
+    color: #6C7969;
+    width: 30%
+}
+
+img {
+    display: inline;
+    width: 60px;
+    height: 90px;
+   
+}
+
+span {
+    background: ;
+}
+
+.spantop {
+    display: block;
+    color: #6C7969;
+    width: 30%;
+    flex-direction: column;
+}
+
+}
+
+.name {
+    color: ;
+}

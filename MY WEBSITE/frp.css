@@ -1,0 +1,65 @@
+body {
+    background-color: black
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 40px;
+
+}
+
+.one {
+    flex-flow: row;
+    width: 17%;
+
+}
+
+.two {
+    flex-flow: row;
+    width: 17%;
+    
+
+}
+
+.three {
+    flex-flow: row;
+   width: 17%;
+}
+
+.four {
+    flex-flow: row;
+    width: 17%;
+
+}
+.five{
+    flex-flow: row;
+    width: 17%;
+}
+.text{
+    text-align: start;
+    color: aqua;
+    font-size: 35px;
+}
+.text1{
+    margin-left: 10%;
+}
+.text2{
+    margin-left: 4%; 
+}
+.text3{
+    margin-left: 8%; 
+}
+.text4{
+    margin-left: 7%;
+}
+.text5{
+    margin-left: 8%;
+}
